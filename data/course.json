@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Linear Algebra",
+  "course_description": "This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. It parallels the combination of theory and applications in Professor Strang\u2019s textbook [_Introduction to Linear Algebra_](http://math.mit.edu/~gs/linearalgebra/).\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus) This course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n*   A complete set of **Lecture Videos** by Professor Gilbert Strang.\n*   **Summary Notes** for all videos along with suggested readings in Prof. Strang's textbook _[Linear Algebra](http://math.mit.edu/~gs/linearalgebra/)_.\n*   **Problem Solving Videos** on every topic taught by an experienced MIT Recitation Instructor.\n*   **Problem Sets** to do on your own with **Solutions** to check your answers against when you're done.\n*   A selection of **Java\u00ae Demonstrations** to illustrate key concepts.\n*   A full set of **Exams with Solutions**, including review material to help you prepare.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.06SC",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Recitation Videos",
+    "Problem Sets with Solutions",
+    "Simulations",
+    "Course Introduction"
+  ],
+  "title": "Course Metadata"
+}
